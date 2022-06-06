@@ -3,9 +3,9 @@
 This repository provides a basic dataset of all Pokemons.
 
 ## ID infos:
-000a = Alola regional Pokemon
-000g = Galar regional Pokemon
-000h = Hisui regional Pokemon
+000a = Alola regional Pokemon /n
+000g = Galar regional Pokemon /n
+000h = Hisui regional Pokemon /n
 000_fa = Different form from the Pokemon. The 2nd letter is to know which form as exemple Deoxys Attack Form would be 386_fa and Deoxys Speed Form would be 386_fs.
 
 
